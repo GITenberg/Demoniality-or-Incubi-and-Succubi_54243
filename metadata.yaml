@@ -1,5 +1,5 @@
 _repo: Demoniality-or-Incubi-and-Succubi_54243
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Liseux, Isidore
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1894
     gutenberg_agent_id: '40737'
     url: http://www.gutenberg.org/2009/agents/40737
+covers:
+- cover_type: archival
+  image_path: 54243-h/images/cover.jpg
 creator:
   author:
     agent_name: Ameno, The Rev. Father Sinistrari of
     gutenberg_agent_id: '47780'
     url: http://www.gutenberg.org/2009/agents/47780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54243#Demoniality-or-Incubi-and-Succubi
 gutenberg_issued: '2017-02-26'
 gutenberg_type: Text
 identifiers:
